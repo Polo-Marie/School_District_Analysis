@@ -1,7 +1,7 @@
 # School_District_Analysis
 ## Python Project with City Schools
 
-### Overview of the school district analysis: Explain the purpose of this analysis.
+### Overview of the school district analysis: 
 This project was to  provide an analysis of standardize testing scores of reading and math for all of the inner city high schools. This analysis was for the purpose of identifying trends within the district by viewing the number of students, the amount of spending per student, the school's overall budgets, and other variables as they relate to student performances by grade within each institution. This analysis will give both a school specific view and a district view of trends affecting testing performances. 
 
 Within this analysis you will be provided a snapshot of the district's key metrics, an overview of each school's key metrics, and this information will consist of the folowing:
