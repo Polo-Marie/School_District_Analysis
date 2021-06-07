@@ -87,6 +87,7 @@ Based on the data above, the only changes between the school summary before NaNs
 
 
 - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+
 By replacing the ninth graders' math and science scores, it caused Thomas High School to fall in rank against the other schools. Thomas High School was initially a top five school within the district. It was number two to be exact. If the school had not excluded the NaNs from their overall school/district summary, the high school would have fallen in rank significantly. Thomas High School went from a % Overall Passing score of 90.95% to 65.08%.
 
 - How does replacing the ninth-grade scores affect the following:
@@ -97,28 +98,28 @@ By replacing the ninth graders' math and science scores, it caused Thomas High S
 
   ![](Photos/Avg_reading_by_grade_NaNs.png)
 
-  The only items affected was that the math and reading scores for the 9th graders was replaced with NaNs instead of actual grades. Every other grade in the school and the district were not affected.
+The only items affected was that the math and reading scores for the 9th graders was replaced with NaNs instead of actual grades. Every other grade in the school and the district were not affected.
 
 
   - Scores by school spending
 
   ![](Photos/Performance_budget_student_NaNs.png)
 
-  There was absolutely no change between the school scores by spending before the NaNs were incorporated and after the NaNs were incorporated to replace the 9th grade math and reading scores, neither for Thomas High School, nor for the district overall.
+There was absolutely no change between the school scores by spending before the NaNs were incorporated and after the NaNs were incorporated to replace the 9th grade math and reading scores, neither for Thomas High School, nor for the district overall.
 
 
   - Scores by school size
 
   ![](Photos/Performance_school_size_NaNs.png)
   
-  There was absolutely no change between the schools' scores by size before the NaNs were incorporated and after the NaNs were incorporated to replace the 9th grade math and reading scores, neither for Thomas High School, nor for the district overall.
+There was absolutely no change between the schools' scores by size before the NaNs were incorporated and after the NaNs were incorporated to replace the 9th grade math and reading scores, neither for Thomas High School, nor for the district overall.
 
 
   - Scores by school type
   
   ![](Photos/Performance_school_type_NaNs.png)
   
-  There was absolutely no change between the schools' scores by school type before the NaNs were incorporated and after the NaNs were incorporated to replace the 9th grade math and reading scores, neither for Thomas High School, nor for the district overall.
+There was absolutely no change between the schools' scores by school type before the NaNs were incorporated and after the NaNs were incorporated to replace the 9th grade math and reading scores, neither for Thomas High School, nor for the district overall.
 
 
 ### Summary:
@@ -127,6 +128,6 @@ In conclusion to this analysis, some changes did occur after the reading and mat
   1. There was a change in the % Passing Math
   2. There was a change in the % Passing Reading
   3. There was a change in the % Overall Passing
-  4. Once the ninth grade test scores were fully excluded from Thomas High Schools testing data, all of the % scores mentioned above returned to nearly the exact same scores as they were before
+  4. Once the ninth grade test scores were fully excluded from Thomas High Schools testing data, all of the % scores mentioned above returned to nearly the exact      same scores as they were before
   
 In conclusion to the results and this overall analysis, we discovered that by inserting NaNs to replace the ninth grade test scores of reading and math, the % Passing Math, % Passing Reading, and the % Overall Passing scores did fall and would have dropped Thomas High Schools' ranking in the district significantly had the ninth grade test scores not been exluded from the school's summary. Once the school excluded their ninth grade testing scores from the overall school summary, the school's math, reading, and overall test scores return back to their original percentages. 
