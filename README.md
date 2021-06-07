@@ -14,7 +14,7 @@ Within this analysis you will be provided a snapshot of the district's key metri
   - How performance relates to type of school (District or Charter)
 
 
-**District's Key Metrics:**
+### District's Key Metrics:
 
 - The top and bottom 5 performing high schools based on the overall passing rate of the tests
 
